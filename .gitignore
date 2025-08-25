@@ -1,0 +1,25 @@
+# Ignore environment files
+LLM/.env
+
+# Ignore Python cache and virtual environment inside LLM
+LLM/__pycache__/
+LLM/venv/
+
+# Ignore node_modules from frontend projects
+Frontend/node_modules/
+Frontend_Auth/node_modules/
+
+# General Python ignores
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual environment (if outside LLM as well)
+venv/
+.env/
+
+# OS specific ignores
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+TransactionID,CustomerID,Product,Category,Quantity,Price,TransactionDate,Country,Region
+1,101,Laptop,Electronics,1,1200.00,2023-10-01,USA,North America
+2,102,Smartphone,Electronics,2,800.50,2023-10-01,Canada,North America
+3,103,Office Chair,Furniture,1,150.75,2023-10-02,USA,North America
+4,101,Mouse,Electronics,3,25.00,2023-10-03,USA,North America
+5,104,Coffee Maker,Home Goods,1,89.99,2023-10-03,UK,Europe
+6,105,T-Shirt,Apparel,5,15.00,2023-10-04,Germany,Europe
+7,102,Keyboard,Electronics,2,75.25,2023-10-05,Canada,North America
+8,106,Jeans,Apparel,2,55.50,2023-10-05,USA,North America
+9,104,Toaster,Home Goods,1,45.00,2023-10-06,UK,Europe
+10,107,Book: "The Analyst",Books,4,19.99,2023-10-07,USA,North America

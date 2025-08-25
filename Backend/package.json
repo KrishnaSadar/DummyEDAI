@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A backend for Kurukshetra",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnaSadar/KurukshetraHackthon.git"
+  },
+  "author": "TeamRockett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishnaSadar/KurukshetraHackthon/issues"
+  },
+  "homepage": "https://github.com/KrishnaSadar/KurukshetraHackthon#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "form-data": "^4.0.4",
+    "multer": "^2.0.2",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
